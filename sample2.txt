@@ -1,0 +1,1 @@
+This is the second sample commit from VS code
